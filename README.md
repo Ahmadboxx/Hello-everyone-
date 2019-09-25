@@ -1,9 +1,7 @@
-<!DOCTYPE HTML>
 <html>
 <head>
 <style> body {background-color:aqua;}
 </style>
-<link rel="stylesheet"> type="text/css" href="README.css">
 </head>
 <body>
   <header>
