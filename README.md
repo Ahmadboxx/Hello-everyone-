@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Anime</title>
 <style> body {background-color:aqua;}
 </style>
 <link rel="stylesheet"> type="text/css" href="README.css">
